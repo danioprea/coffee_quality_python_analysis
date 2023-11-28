@@ -7,8 +7,8 @@ TBA
 ## Data
 
 We used and analyzed the following datasets:
-- TBA
-- TBA
+- [Coffee Quality Data (via Kaggle)](https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi)
+- [Coffee Dataset (via Kaggle)](https://www.kaggle.com/datasets/michals22/coffee-dataset)
 
 ## Tools
 
