@@ -19,3 +19,6 @@ For this project, the following Python libraries were used:
 - sklearn - for linear regression modeling and k-Means clustering
 - statsmodel - for stationarity testing and time series analysis (Dickey-Fuller Test)
 
+## Storyboard
+
+The findings of this analysis can be found here. The storyboard doesn’t contain every step I took as part of the analysis—only those relevant to the final results.
