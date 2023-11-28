@@ -14,8 +14,8 @@ We used and analyzed the following datasets:
 
 For this project, the following Python libraries were used:
 - pandas - for data analysis
-- seaborn & matplotlib - for visualization
+- seaborn, matplotlib & pylab - for visualization
 - folium - for geographical analysis
-- sklearn - for linear regression modeling
-- statsmodel - for stationarity testing
+- sklearn - for linear regression modeling and k-Means clustering
+- statsmodel - for stationarity testing and time series analysis (Dickey-Fuller Test)
 
