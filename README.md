@@ -1,8 +1,9 @@
-# coffee_quality_python_analysis
+![image](https://github.com/danioprea/coffee_quality_python_analysis/assets/142274689/d0a467a2-038d-4b01-824a-9a59cfe4ea77)# coffee_quality_python_analysis
 
 ## Objective
 
-TBA
+This project focused on identifying characteristics of higher-quality coffee. The analysis could be used by a coffee shop to aid in sourcing the best coffee possible. This could give the coffee shop an edge in a competitive market. 
+
 
 ## Data
 
@@ -21,4 +22,4 @@ For this project, the following Python libraries were used:
 
 ## Storyboard
 
-The findings of this analysis can be found here. The storyboard doesn’t contain every step I took as part of the analysis—only those relevant to the final results.
+The findings of this analysis can be [found here](https://public.tableau.com/views/CoffeeQualityAnalysisProject/CoffeeQualityAnalysisPresentation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link). The storyboard doesn’t contain every step I took as part of the analysis—only those relevant to the final results.
