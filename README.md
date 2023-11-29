@@ -1,4 +1,4 @@
-![image](https://github.com/danioprea/coffee_quality_python_analysis/assets/142274689/d0a467a2-038d-4b01-824a-9a59cfe4ea77)# coffee_quality_python_analysis
+# coffee_quality_python_analysis
 
 ## Objective
 
