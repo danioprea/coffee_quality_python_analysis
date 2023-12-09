@@ -1,4 +1,4 @@
-# coffee_quality_python_analysis
+# Coffee Quality Python Analysis
 
 ## Objective
 
